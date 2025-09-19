@@ -1,0 +1,29 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/kyeal/OneDrive - University of South Australia/Documents/TheAUGame/Content/Blueprints/BP_PC.uasset",
+				"C:/Users/kyeal/OneDrive - University of South Australia/Documents/TheAUGame/Content/Assets/A_Logo.uasset",
+				"C:/Users/kyeal/OneDrive - University of South Australia/Documents/TheAUGame/Content/Assets/A_Panning.uasset",
+				"C:/Users/kyeal/OneDrive - University of South Australia/Documents/TheAUGame/Content/Assets/A_Pickaxe.uasset",
+				"C:/Users/kyeal/OneDrive - University of South Australia/Documents/TheAUGame/Content/Assets/A_Shovel.uasset",
+				"C:/Users/kyeal/OneDrive - University of South Australia/Documents/TheAUGame/Content/Assets/ABG_MineFloor.uasset",
+				"C:/Users/kyeal/OneDrive - University of South Australia/Documents/TheAUGame/Content/Assets/ABG_Mines.uasset",
+				"C:/Users/kyeal/OneDrive - University of South Australia/Documents/TheAUGame/Content/Assets/ABG_MinesBack.uasset",
+				"C:/Users/kyeal/OneDrive - University of South Australia/Documents/TheAUGame/Content/Assets/ABG_MinesEnterence.uasset",
+				"C:/Users/kyeal/OneDrive - University of South Australia/Documents/TheAUGame/Content/Assets/ABG_OutsideFloor.uasset",
+				"C:/Users/kyeal/OneDrive - University of South Australia/Documents/TheAUGame/Content/Assets/ABG_Town.uasset",
+				"C:/Users/kyeal/OneDrive - University of South Australia/Documents/TheAUGame/Content/Assets/CA_Bandit1.uasset",
+				"C:/Users/kyeal/OneDrive - University of South Australia/Documents/TheAUGame/Content/Assets/CA_Bandit2.uasset",
+				"C:/Users/kyeal/OneDrive - University of South Australia/Documents/TheAUGame/Content/Assets/CA_Bandit3.uasset",
+				"C:/Users/kyeal/OneDrive - University of South Australia/Documents/TheAUGame/Content/Assets/CA_Father.uasset",
+				"C:/Users/kyeal/OneDrive - University of South Australia/Documents/TheAUGame/Content/Assets/CA_TutorialJoe.uasset",
+				"C:/Users/kyeal/OneDrive - University of South Australia/Documents/TheAUGame/Content/Maps/Map_test.umap",
+				"C:/Users/kyeal/OneDrive - University of South Australia/Documents/TheAUGame/Content/Assets/ABG_OutsideFloor_Mat.uasset"
+			]
+		}
+	]
+}
