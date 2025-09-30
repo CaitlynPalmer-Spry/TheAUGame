@@ -5,6 +5,11 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/kyeal/Documents/TheAUGame/Content/Assets/FixedBAckgroundsANDtextures/townUpdated.uasset",
+				"C:/Users/kyeal/Documents/TheAUGame/Content/Assets/PNGs/townUpdated.uasset",
+				"C:/Users/kyeal/Documents/TheAUGame/Content/Assets/FixedBAckgroundsANDtextures/MineEnteranceUpdated.uasset",
+				"C:/Users/kyeal/Documents/TheAUGame/Content/Assets/PNGs/ABG_MinesEnterence.uasset",
+				"C:/Users/kyeal/Documents/TheAUGame/Content/Assets/ABG_MinesEnterence_Sprite.uasset",
 				"C:/Users/kyeal/OneDrive - University of South Australia/Documents/TheAUGame/Content/Blueprints/PanningBlueprints/BP_Spline.uasset",
 				"C:/Users/kyeal/OneDrive - University of South Australia/Documents/TheAUGame/Content/Blueprints/PanningBlueprints/GM_Panning.uasset",
 				"C:/Users/kyeal/OneDrive - University of South Australia/Documents/TheAUGame/Content/Blueprints/PanningBlueprints/GM_FakeTest.uasset",
