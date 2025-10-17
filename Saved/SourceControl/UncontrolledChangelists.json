@@ -8,7 +8,11 @@
 				"C:/AUtest2/TheAUGame/Content/Blueprints/GI_PlayerData.uasset",
 				"C:/AUtest2/TheAUGame/Content/Blueprints/PanningBlueprints/BP_Spline.uasset",
 				"C:/AUtest2/TheAUGame/Content/UI/UI_Shop.uasset",
-				"C:/AUtest2/TheAUGame/Content/Blueprints/GM_Shop.uasset"
+				"C:/AUtest2/TheAUGame/Content/Blueprints/GM_Shop.uasset",
+				"C:/AUtest2/TheAUGame/Content/Blueprints/BP_BankTrigger.uasset",
+				"C:/AUtest2/TheAUGame/Content/Maps/Town.umap",
+				"C:/AUtest2/TheAUGame/Content/UI/UI_BankButton.uasset",
+				"C:/AUtest2/TheAUGame/Content/Maps/Bank.umap"
 			]
 		}
 	]
