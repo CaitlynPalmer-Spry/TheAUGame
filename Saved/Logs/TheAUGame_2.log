@@ -2520,3 +2520,108 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.10.17-07.01.12:865][512]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2025.10.17-07.01.12:865][512]AssetCheck: /Game/Maps/Bank Validating asset
 [2025.10.17-07.01.12:889][512]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../AUtest2/TheAUGame/Saved/SourceControl/UncontrolledChangelists.json
+[2025.10.17-07.02.20:631][231]LogShaderCompilers: Display: ================================================
+[2025.10.17-07.02.20:631][231]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.10.17-07.02.20:631][231]LogShaderCompilers: Display: Total job queries 250, among them cache hits 13 (5.20%), DDC hits 154 (61.60%), Duplicates 76 (30.40%)
+[2025.10.17-07.02.20:631][231]LogShaderCompilers: Display: Tracking 161 distinct input hashes that result in 107 distinct outputs (66.46%)
+[2025.10.17-07.02.20:631][231]LogShaderCompilers: Display: RAM used: 347.69 KiB of 409.60 MiB budget. Usage: 0.08%
+[2025.10.17-07.02.20:631][231]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.10.17-07.02.20:631][231]LogShaderCompilers: Display: Shaders Compiled: 7
+[2025.10.17-07.02.20:631][231]LogShaderCompilers: Display: Jobs assigned 7, completed 7 (100%)
+[2025.10.17-07.02.20:631][231]LogShaderCompilers: Display: Average time worker was idle: 525.56 s
+[2025.10.17-07.02.20:631][231]LogShaderCompilers: Display: Time job spent in pending queue: average 0.22 s, longest 0.33 s
+[2025.10.17-07.02.20:632][231]LogShaderCompilers: Display: Job execution time: average 5.74 s, max 7.16 s
+[2025.10.17-07.02.20:632][231]LogShaderCompilers: Display: Job life time (pending + execution): average 5.97 s, max 7.26
+[2025.10.17-07.02.20:632][231]LogShaderCompilers: Display: Shader code size: total 29.32 KiB, numShaders 7, average 4.188 KiB, min 2.73 KiB, max 4.984 KiB
+[2025.10.17-07.02.20:632][231]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 12.98 s
+[2025.10.17-07.02.20:632][231]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.54%
+[2025.10.17-07.02.20:632][231]LogShaderCompilers: Display: Jobs were issued in 7 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.10.17-07.02.20:632][231]LogShaderCompilers: Display: Average processing rate: 0.54 jobs/sec
+[2025.10.17-07.02.20:632][231]LogShaderCompilers: Display: Total thread time: 22.769 s
+[2025.10.17-07.02.20:632][231]LogShaderCompilers: Display: Total thread preprocess time: 55.217 s
+[2025.10.17-07.02.20:632][231]LogShaderCompilers: Display: Percentage time preprocessing: 242.51%
+[2025.10.17-07.02.20:632][231]LogShaderCompilers: Display: Effective parallelization: 1.75 (times faster than compiling all shaders on one thread). Compare with number of workers: 4 - 0.438497
+[2025.10.17-07.02.20:632][231]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.10.17-07.02.20:632][231]LogShaderCompilers: Display:                                                  FHitProxyVS (compiled    1 times, average 4.17 sec, max 4.17 sec, min 4.17 sec)
+[2025.10.17-07.02.20:632][231]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    3 times, average 3.16 sec, max 4.17 sec, min 2.25 sec)
+[2025.10.17-07.02.20:632][231]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    3 times, average 3.04 sec, max 4.17 sec, min 1.94 sec)
+[2025.10.17-07.02.20:632][231]LogShaderCompilers: Display:                        FLumenTranslucencyRadianceCacheMarkVS (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2025.10.17-07.02.20:632][231]LogShaderCompilers: Display:                                 FLandscapePhysicalMaterialVS (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2025.10.17-07.02.20:632][231]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.10.17-07.02.20:632][231]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 41.61% of total time (compiled    3 times, average 3.16 sec, max 4.17 sec, min 2.25 sec)
+[2025.10.17-07.02.20:632][231]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 40.10% of total time (compiled    3 times, average 3.04 sec, max 4.17 sec, min 1.94 sec)
+[2025.10.17-07.02.20:632][231]LogShaderCompilers: Display:                                                  FHitProxyVS - 18.29% of total time (compiled    1 times, average 4.17 sec, max 4.17 sec, min 4.17 sec)
+[2025.10.17-07.02.20:632][231]LogShaderCompilers: Display:                                 FLandscapePhysicalMaterialVS - 0.00% of total time (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2025.10.17-07.02.20:632][231]LogShaderCompilers: Display:                        FLumenTranslucencyRadianceCacheMarkVS - 0.00% of total time (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2025.10.17-07.02.20:632][231]LogShaderCompilers: Display: === Material stats ===
+[2025.10.17-07.02.20:632][231]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.10.17-07.02.20:632][231]LogShaderCompilers: Display: Materials Translated:    137
+[2025.10.17-07.02.20:632][231]LogShaderCompilers: Display: Material Total Translate Time: 1.58 s
+[2025.10.17-07.02.20:632][231]LogShaderCompilers: Display: Material Translation Only: 0.55 s (35%)
+[2025.10.17-07.02.20:632][231]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
+[2025.10.17-07.02.20:632][231]LogShaderCompilers: Display: Material Cache Hits: 14 (10%)
+[2025.10.17-07.02.20:632][231]LogShaderCompilers: Display: ================================================
+[2025.10.17-07.02.58:274][386]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2025.10.17-07.02.58:459][386]LogStall: Shutdown...
+[2025.10.17-07.02.58:474][386]LogStall: Shutdown complete.
+[2025.10.17-07.02.58:633][386]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2025.10.17-07.02.58:633][386]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.17-07.02.58:727][386]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2025.10.17-07.02.58:727][386]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.17-07.02.58:867][386]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2025.10.17-07.02.58:867][386]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.17-07.02.59:082][386]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2025.10.17-07.02.59:082][386]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.17-07.02.59:099][386]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2025.10.17-07.02.59:099][386]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.17-07.02.59:198][386]LogSlate: Window 'TheAUGame - Unreal Editor' being destroyed
+[2025.10.17-07.03.07:808][386]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2025.10.17-07.03.07:862][386]Cmd: QUIT_EDITOR
+[2025.10.17-07.03.07:940][387]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2025.10.17-07.03.08:673][387]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2025.10.17-07.03.09:328][387]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2025.10.17-07.03.09:387][387]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2025.10.17-07.03.09:745][387]LogWorld: UWorld::CleanupWorld for Bank, bSessionEnded=true, bCleanupResources=true
+[2025.10.17-07.03.09:746][387]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.17-07.03.10:732][387]LogStylusInput: Shutting down StylusInput subsystem.
+[2025.10.17-07.03.10:813][387]LogTedsSettings: UTedsSettingsEditorSubsystem::Deinitialize
+[2025.10.17-07.03.11:466][387]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2025.10.17-07.03.12:067][387]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2025.10.17-07.03.12:067][387]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.17-07.03.12:603][387]LogRuntimeTelemetry: Recording EnginePreExit events
+[2025.10.17-07.03.12:651][387]LogStudioTelemetry: Ended StudioTelemetry Session
+[2025.10.17-07.03.13:039][387]LogAnalytics: Display: [UEEditor.Rocket.Release] AnalyticsET::EndSession
+[2025.10.17-07.03.14:158][387]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2025.10.17-07.03.14:159][387]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2025.10.17-07.03.14:159][387]LogAudio: Display: Audio Device unregistered from world 'Bank'.
+[2025.10.17-07.03.14:168][387]LogAudio: Display: Shutting down audio device while 1 references to it are still alive. For more information, compile with INSTRUMENT_AUDIODEVICE_HANDLES.
+[2025.10.17-07.03.14:250][387]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1, StreamState=4
+[2025.10.17-07.03.14:299][387]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1, StreamState=2
+[2025.10.17-07.03.15:118][387]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID -1
+[2025.10.17-07.03.15:141][387]LogAudio: Display: Audio Device Manager Shutdown
+[2025.10.17-07.03.15:493][387]LogWindowsTextInputMethodSystem: Activated input method: English (Australia) - (Keyboard).
+[2025.10.17-07.03.16:039][387]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2025.10.17-07.03.16:080][387]LogExit: Preparing to exit.
+[2025.10.17-07.03.18:366][387]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2025.10.17-07.03.18:405][387]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.add_controls_for_selected_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.10.17-07.03.18:424][387]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.add_controls_for_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.10.17-07.03.18:565][387]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_null_above_selected_PY.add_null_above_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.10.17-07.03.18:565][387]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.10.17-07.03.18:565][387]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_all' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.10.17-07.03.18:598][387]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_x' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.10.17-07.03.18:598][387]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_y' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.10.17-07.03.18:598][387]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_z' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.10.17-07.03.18:598][387]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.10.17-07.03.18:598][387]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_scale' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.10.17-07.03.18:598][387]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.search_replace_name_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.10.17-07.03.18:598][387]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.search_replace_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.10.17-07.03.18:598][387]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_prefix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.10.17-07.03.18:598][387]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_prefix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.10.17-07.03.18:598][387]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_suffix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.10.17-07.03.18:598][387]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_suffix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.10.17-07.03.18:598][387]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.do_rename_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.10.17-07.03.18:598][387]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.do_rename_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.10.17-07.03.18:632][387]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/set_bone_reference_pose_PY.set_bone_reference_pose' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.10.17-07.03.18:632][387]LogPython: Display: Object '/ControlRig/Python/ControlRigWorkflows/workflow_fbik_import_ik_rig_PY.import_ik_rig_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.10.17-07.03.18:632][387]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.ControlOutputFormat' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.10.17-07.03.23:773][387]LogEditorDataStorage: Deinitializing
