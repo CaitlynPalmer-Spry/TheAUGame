@@ -5,14 +5,19 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+<<<<<<< HEAD
+				"C:/Users/kyeal/OneDrive - University of South Australia/Documents/TheAUGame/Content/Blueprints/PanningBlueprints/BP_Spline.uasset",
+				"C:/Users/kyeal/OneDrive - University of South Australia/Documents/TheAUGame/Content/Blueprints/BP_PC.uasset",
+				"C:/Users/kyeal/OneDrive - University of South Australia/Documents/TheAUGame/Content/Blueprints/Inventory/BP_InventoryComponment.uasset",
+				"C:/Users/kyeal/OneDrive - University of South Australia/Documents/TheAUGame/Content/Blueprints/GI_PlayerData.uasset",
+				"C:/Users/kyeal/OneDrive - University of South Australia/Documents/TheAUGame/Content/UI/UI_Inventory.uasset",
+				"C:/Users/kyeal/OneDrive - University of South Australia/Documents/TheAUGame/Content/UI/UI_UI.uasset"
+=======
 				"C:/AUtest2/TheAUGame/Content/Blueprints/GI_PlayerData.uasset",
 				"C:/AUtest2/TheAUGame/Content/Blueprints/PanningBlueprints/BP_Spline.uasset",
 				"C:/AUtest2/TheAUGame/Content/UI/UI_Shop.uasset",
-				"C:/AUtest2/TheAUGame/Content/Blueprints/GM_Shop.uasset",
-				"C:/AUtest2/TheAUGame/Content/Blueprints/BP_BankTrigger.uasset",
-				"C:/AUtest2/TheAUGame/Content/Maps/Town.umap",
-				"C:/AUtest2/TheAUGame/Content/UI/UI_BankButton.uasset",
-				"C:/AUtest2/TheAUGame/Content/Maps/Bank.umap"
+				"C:/AUtest2/TheAUGame/Content/Blueprints/GM_Shop.uasset"
+>>>>>>> fc6ef3c6ec56ec7cfaf0e35f9a73b253325f6d41
 			]
 		}
 	]
