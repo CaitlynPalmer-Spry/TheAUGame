@@ -5,7 +5,19 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/AUtest2/TheAUGame/Content/UI/UI_Shop.uasset"
+				"C:/Users/kyeal/OneDrive - University of South Australia/Documents/TheAUGame/Content/Blueprints/GI_PlayerData.uasset",
+				"C:/Users/kyeal/OneDrive - University of South Australia/Documents/TheAUGame/Content/UI/UI_UI.uasset",
+				"C:/Users/kyeal/OneDrive - University of South Australia/Documents/TheAUGame/Content/UI/UI_InventorySlot.uasset",
+				"C:/Users/kyeal/OneDrive - University of South Australia/Documents/TheAUGame/Content/UI/UI_Shop.uasset",
+				"C:/Users/kyeal/OneDrive - University of South Australia/Documents/TheAUGame/Content/Assets/2DItems/BP_Item.uasset",
+				"C:/Users/kyeal/OneDrive - University of South Australia/Documents/TheAUGame/Content/Blueprints/BP_PC.uasset",
+				"C:/Users/kyeal/OneDrive - University of South Australia/Documents/TheAUGame/Content/Maps/Town.umap",
+				"C:/Users/kyeal/OneDrive - University of South Australia/Documents/TheAUGame/Content/Assets/2DItems/Tent.uasset",
+				"C:/Users/kyeal/OneDrive - University of South Australia/Documents/TheAUGame/Content/Maps/Camp.umap",
+				"C:/Users/kyeal/OneDrive - University of South Australia/Documents/TheAUGame/Content/UI/UI_Tent.uasset",
+				"C:/Users/kyeal/OneDrive - University of South Australia/Documents/TheAUGame/Content/UI/UI_Faint.uasset",
+				"C:/Users/kyeal/OneDrive - University of South Australia/Documents/TheAUGame/Content/Maps/MineEntrance.umap",
+				"C:/Users/kyeal/OneDrive - University of South Australia/Documents/TheAUGame/Content/Blueprints/BP_GoldOre.uasset"
 			]
 		}
 	]
