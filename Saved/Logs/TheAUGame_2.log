@@ -1853,6 +1853,7 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.10.20-01.46.52:861][558]LogEditorDataStorage: Deinitializing
 [2025.10.20-01.47.03:339][558]LogDirectoryWatcher: Display: Refresh of ReadDirectoryChangesW failed. GetLastError code [6] Handle [FFFFFFFFFFFFFFFF], Path [C:/AUtest2/TheAUGame/Content/]. Aborting watch request...
 [2025.10.20-01.47.04:071][558]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+<<<<<<< Updated upstream
 [2025.10.20-01.47.07:377][558]LogExit: Editor shut down
 [2025.10.20-01.47.07:480][558]LogExit: Transaction tracking system shut down
 [2025.10.20-01.47.17:617][558]LogExit: Object subsystem successfully closed.
@@ -1876,3 +1877,5 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.10.20-01.47.31:228][558]LogD3D11RHI: CleanupD3DDevice
 [2025.10.20-01.47.32:293][558]LogExit: Exiting.
 [2025.10.20-01.47.32:631][558]Log file closed, 10/20/25 12:17:32
+=======
+>>>>>>> Stashed changes
