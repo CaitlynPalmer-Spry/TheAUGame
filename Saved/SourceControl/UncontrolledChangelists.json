@@ -6,6 +6,11 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"D:/REALAUGame/TheAUGame/Content/Blueprints/BP_PC.uasset",
+				"D:/REALAUGame/TheAUGame/Content/UI/UI_UI.uasset",
+				"D:/REALAUGame/TheAUGame/Content/Assets/PNGs/heat-pixilart.uasset",
+				"D:/REALAUGame/TheAUGame/Content/Assets/PNGs/pixilart-drawing__10_.uasset",
+				"D:/REALAUGame/TheAUGame/Content/Assets/PNGs/pixilart-drawing__9_.uasset",
+				"D:/REALAUGame/TheAUGame/Content/Audio/classical-guitar-gran-jota-by-francisco-tarrega-1852-1909-120809.uasset",
 				"C:/Users/kyeal/OneDrive - University of South Australia/Documents/TheAUGame/Content/Assets/PNGs/UpdatedLantern.uasset",
 				"C:/Users/kyeal/OneDrive - University of South Australia/Documents/TheAUGame/Content/UI/UI_Shop.uasset",
 				"C:/Users/kyeal/OneDrive - University of South Australia/Documents/TheAUGame/Content/Assets/Materials/M_lantern.uasset",
