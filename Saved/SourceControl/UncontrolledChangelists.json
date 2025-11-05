@@ -5,6 +5,42 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/kyeal/OneDrive - University of South Australia/Documents/TheAUGame/Content/Assets/PNGs/UpdatedLantern.uasset",
+				"C:/Users/kyeal/OneDrive - University of South Australia/Documents/TheAUGame/Content/UI/UI_Shop.uasset",
+				"C:/Users/kyeal/OneDrive - University of South Australia/Documents/TheAUGame/Content/Assets/Materials/M_lantern.uasset",
+				"C:/Users/kyeal/OneDrive - University of South Australia/Documents/TheAUGame/Content/Assets/2DItems/BP_Item.uasset",
+				"C:/Users/kyeal/OneDrive - University of South Australia/Documents/TheAUGame/Content/UI/UI_Tutorial_Joe_Animation.uasset",
+				"C:/Users/kyeal/OneDrive - University of South Australia/Documents/TheAUGame/Content/Assets/2DItems/TutorialJoe.uasset",
+				"C:/Users/kyeal/OneDrive - University of South Australia/Documents/TheAUGame/Content/Assets/SpriteAnimationFrames/TutorialJoe/F_TutJoeBreathe.uasset",
+				"C:/Users/kyeal/OneDrive - University of South Australia/Documents/TheAUGame/Content/Blueprints/QuizBlueprints/A_Bandit1.uasset",
+				"C:/Users/kyeal/OneDrive - University of South Australia/Documents/TheAUGame/Content/Blueprints/QuizBlueprints/A_Bandit2.uasset",
+				"C:/Users/kyeal/OneDrive - University of South Australia/Documents/TheAUGame/Content/Blueprints/BP_PC.uasset",
+				"C:/Users/kyeal/OneDrive - University of South Australia/Documents/TheAUGame/Content/Blueprints/GI_PlayerData.uasset",
+				"C:/Users/kyeal/OneDrive - University of South Australia/Documents/TheAUGame/Content/Maps/Camp.umap",
+				"C:/Users/kyeal/OneDrive - University of South Australia/Documents/TheAUGame/Content/Blueprints/QuizBlueprints/A_Bandit3.uasset",
+				"C:/Users/kyeal/OneDrive - University of South Australia/Documents/TheAUGame/Content/Assets/SpriteAnimationFrames/TutorialJoe/TutJoe_breathing1.uasset",
+				"C:/Users/kyeal/OneDrive - University of South Australia/Documents/TheAUGame/Content/Assets/SpriteAnimationFrames/TutorialJoe/TutJoe_breathing1_Sprite.uasset",
+				"C:/Users/kyeal/OneDrive - University of South Australia/Documents/TheAUGame/Content/Assets/SpriteAnimationFrames/Bandit1/F_Shooting_bandit2.uasset",
+				"C:/Users/kyeal/OneDrive - University of South Australia/Documents/TheAUGame/Content/Assets/PNGs/MouseClick.uasset",
+				"C:/Users/kyeal/OneDrive - University of South Australia/Documents/TheAUGame/Content/Blueprints/Transitions/BP_CampTransition.uasset",
+				"C:/Users/kyeal/OneDrive - University of South Australia/Documents/TheAUGame/Content/Blueprints/Transitions/BP_TownTransition.uasset",
+				"C:/Users/kyeal/OneDrive - University of South Australia/Documents/TheAUGame/Content/Maps/Town.umap",
+				"C:/Users/kyeal/OneDrive - University of South Australia/Documents/TheAUGame/Content/Blueprints/BP_GameMode.uasset",
+				"C:/Users/kyeal/OneDrive - University of South Australia/Documents/TheAUGame/Content/Blueprints/Transitions/BP_MineeTransition.uasset",
+				"C:/Users/kyeal/OneDrive - University of South Australia/Documents/TheAUGame/Content/Blueprints/Transitions/BP_MineEntranceTransition.uasset",
+				"C:/Users/kyeal/OneDrive - University of South Australia/Documents/TheAUGame/Content/Blueprints/Transitions/BP_TownTransition2.uasset",
+				"C:/Users/kyeal/OneDrive - University of South Australia/Documents/TheAUGame/Content/Maps/MineEntrance.umap",
+				"C:/Users/kyeal/OneDrive - University of South Australia/Documents/TheAUGame/Content/Blueprints/Transitions/BP_MineTransition2.uasset",
+				"C:/Users/kyeal/OneDrive - University of South Australia/Documents/TheAUGame/Content/Audio/shitty_pickaxe2.uasset",
+				"C:/Users/kyeal/OneDrive - University of South Australia/Documents/TheAUGame/Content/Audio/Walking.uasset",
+				"C:/Users/kyeal/OneDrive - University of South Australia/Documents/TheAUGame/Content/Blueprints/GM_Bank.uasset",
+				"C:/Users/kyeal/OneDrive - University of South Australia/Documents/TheAUGame/Content/UI/UI_InventorySlot.uasset",
+				"C:/Users/kyeal/OneDrive - University of South Australia/Documents/TheAUGame/Content/Blueprints/Inventory/BP_InventoryComponment.uasset",
+				"C:/Users/kyeal/OneDrive - University of South Australia/Documents/TheAUGame/Content/UI/UI_PanningButton.uasset",
+				"C:/Users/kyeal/OneDrive - University of South Australia/Documents/TheAUGame/Content/Assets/2DItems/BP_WaterStream.uasset",
+				"C:/Users/kyeal/OneDrive - University of South Australia/Documents/TheAUGame/Content/Assets/Materials/M_Panning_Tool.uasset",
+				"C:/Users/kyeal/OneDrive - University of South Australia/Documents/TheAUGame/Content/Assets/PNGs/Panning_Tool.uasset",
+				"C:/Users/kyeal/OneDrive - University of South Australia/Documents/TheAUGame/Content/Assets/PNGs/boom_show_off.uasset",
 				"D:/REALAUGame/TheAUGame/Content/Blueprints/BP_PC.uasset",
 				"D:/REALAUGame/TheAUGame/Content/UI/UI_UI.uasset",
 				"D:/REALAUGame/TheAUGame/Content/Assets/PNGs/heat-pixilart.uasset",
@@ -34,16 +70,11 @@
 				"D:/REALAUGame/TheAUGame/Content/Assets/MineTHings/pixil-frame-0__2_.uasset",
 				"D:/REALAUGame/TheAUGame/Content/Assets/MineTHings/pixil-frame-0__3_.uasset",
 				"D:/REALAUGame/TheAUGame/Content/Assets/MineTHings/pixil-frame-0__4_.uasset",
-<<<<<<< Updated upstream
+<<<<<<< HEAD
+				"C:/Users/kyeal/OneDrive - University of South Australia/Documents/TheAUGame/Content/Audio/CHACHING.uasset"
+=======
 				"D:/REALAUGame/TheAUGame/Content/Audio/classical-guitar-mazurka-by-francisco-tarrega-1852-1909-121059.uasset",
 				"D:/REALAUGame/TheAUGame/Content/Maps/camp.umap",
-				"D:/REALAUGame/TheAUGame/Content/Blueprints/BP_MineLight.uasset",
-				"D:/REALAUGame/TheAUGame/Content/UI/UI_Shop.uasset",
-				"D:/REALAUGame/TheAUGame/Content/Maps/MineEntrance.umap",
-=======
-				"D:/REALAUGame/TheAUGame/Content/UI/UI_Shop.uasset",
-				"D:/REALAUGame/TheAUGame/Content/Audio/classical-guitar-mazurka-by-francisco-tarrega-1852-1909-121059.uasset",
->>>>>>> Stashed changes
 				"D:/REALAUGame/TheAUGame/Content/Audio/classical-guitar-gran-jota-by-francisco-tarrega-1852-1909-120809.uasset",
 				"D:/REALAUGame/TheAUGame/Content/Assets/awsdfgvhbjnmk-pixilart__1__Sprite.uasset",
 				"D:/REALAUGame/TheAUGame/Content/Assets/awsdfgvhbjnmk-pixilart__1_.uasset",
@@ -81,6 +112,7 @@
 				"C:/Users/kyeal/OneDrive - University of South Australia/Documents/TheAUGame/Content/Audio/Walking.uasset",
 				"C:/Users/kyeal/OneDrive - University of South Australia/Documents/TheAUGame/Content/Audio/CHACHING.uasset",
 				"C:/Users/kyeal/OneDrive - University of South Australia/Documents/TheAUGame/Content/Blueprints/GM_Bank.uasset"
+>>>>>>> 11f29b9036e11f78393c6d0db30741b0798e7908
 			]
 		}
 	]
