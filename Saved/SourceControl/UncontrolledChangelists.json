@@ -5,6 +5,8 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/AUtest2/TheAUGame/Content/Blueprints/BP_Stag.uasset",
+				"C:/AUtest2/TheAUGame/Content/Blueprints/BP_PC.uasset",
 				"C:/Users/kyeal/OneDrive - University of South Australia/Documents/TheAUGame/Content/Blueprints/PanningBlueprints/BP_Note1.uasset",
 				"C:/Users/kyeal/OneDrive - University of South Australia/Documents/TheAUGame/Content/Blueprints/PanningBlueprints/BP_Spline.uasset",
 				"C:/Users/kyeal/OneDrive - University of South Australia/Documents/TheAUGame/Content/Blueprints/PanningBlueprints/MI_TargetRed.uasset",
