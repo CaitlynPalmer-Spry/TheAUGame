@@ -5,6 +5,7 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+<<<<<<< HEAD
 				"C:/Users/kyeal/OneDrive - University of South Australia/Documents/TheAUGame/Content/Blueprints/PanningBlueprints/BP_Note1.uasset",
 				"C:/Users/kyeal/OneDrive - University of South Australia/Documents/TheAUGame/Content/Blueprints/PanningBlueprints/BP_Spline.uasset",
 				"C:/Users/kyeal/OneDrive - University of South Australia/Documents/TheAUGame/Content/Blueprints/PanningBlueprints/MI_TargetRed.uasset",
@@ -58,14 +59,31 @@
 				"D:/REALAUGame/TheAUGame/Content/UI/UI_BanditQuiz.uasset",
 				"D:/REALAUGame/TheAUGame/Content/Assets/PNGs/inventorytttext-pixilart.uasset",
 				"D:/REALAUGame/TheAUGame/Content/Assets/PNGs/inventorytttext-pixilart__1_.uasset",
+=======
+				"D:/REALAUGame/TheAUGame/Content/Blueprints/BP_AirLevelOne.uasset",
+>>>>>>> 56d627419792fddeacaaf911c4c2d14fe1daf29d
 				"D:/REALAUGame/TheAUGame/Content/Maps/Mine.umap",
-				"D:/REALAUGame/TheAUGame/Content/Assets/PNGs/pixil-frame-0__6_.uasset",
-				"D:/REALAUGame/TheAUGame/Content/Assets/PNGs/pixil-frame-0__6__Sprite.uasset",
-				"D:/REALAUGame/TheAUGame/Content/Assets/PNGs/pixilart-drawing__12_.uasset",
-				"D:/REALAUGame/TheAUGame/Content/Assets/PNGs/pixilart-drawing__13_.uasset",
-				"D:/REALAUGame/TheAUGame/Content/Assets/PNGs/pixilart-drawing__14_.uasset",
-				"D:/REALAUGame/TheAUGame/Content/Assets/PNGs/pixilart-drawing__14__Sprite.uasset",
-				"D:/REALAUGame/TheAUGame/Content/Assets/PNGs/pixilart-drawing__15_.uasset"
+				"D:/REALAUGame/TheAUGame/Content/Blueprints/GI_PlayerData.uasset",
+				"D:/REALAUGame/TheAUGame/Content/Blueprints/BP_PC.uasset",
+				"D:/REALAUGame/TheAUGame/Content/UI/UI_UI.uasset",
+				"D:/REALAUGame/TheAUGame/Content/Assets/PNGs/currennnt.uasset",
+				"D:/REALAUGame/TheAUGame/Content/Assets/SpriteAnimationFrames/Mine-walk.uasset",
+				"D:/REALAUGame/TheAUGame/Content/Assets/SpriteAnimationFrames/Mine-walk1.uasset",
+				"D:/REALAUGame/TheAUGame/Content/Assets/SpriteAnimationFrames/Mine-walk1_Sprite.uasset",
+				"D:/REALAUGame/TheAUGame/Content/Assets/SpriteAnimationFrames/Mine-walk2.uasset",
+				"D:/REALAUGame/TheAUGame/Content/Assets/SpriteAnimationFrames/Mine-walk2_Sprite.uasset",
+				"D:/REALAUGame/TheAUGame/Content/Assets/SpriteAnimationFrames/Mine-walk3.uasset",
+				"D:/REALAUGame/TheAUGame/Content/Assets/SpriteAnimationFrames/Mine-walk3_Sprite.uasset",
+				"D:/REALAUGame/TheAUGame/Content/Assets/SpriteAnimationFrames/Mine-walk4.uasset",
+				"D:/REALAUGame/TheAUGame/Content/Assets/SpriteAnimationFrames/Mine-walk4_Sprite.uasset",
+				"D:/REALAUGame/TheAUGame/Content/Assets/PNGs/pixil-frame-0__10_.uasset",
+				"D:/REALAUGame/TheAUGame/Content/Assets/PNGs/pixil-frame-0__11_.uasset",
+				"D:/REALAUGame/TheAUGame/Content/Assets/PNGs/pixil-frame-0__12_.uasset",
+				"D:/REALAUGame/TheAUGame/Content/Assets/PNGs/pixil-frame-0__13_.uasset",
+				"D:/REALAUGame/TheAUGame/Content/Assets/PNGs/pixil-frame-0__15_.uasset",
+				"D:/REALAUGame/TheAUGame/Content/Assets/PNGs/pixil-frame-0__7_.uasset",
+				"D:/REALAUGame/TheAUGame/Content/Assets/PNGs/pixil-frame-0__8_.uasset",
+				"D:/REALAUGame/TheAUGame/Content/Assets/PNGs/pixil-frame-0__9_.uasset"
 			]
 		}
 	]
