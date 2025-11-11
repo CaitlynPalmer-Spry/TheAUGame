@@ -8,7 +8,17 @@
 				"D:/REALAUGame/TheAUGame/Content/Maps/camp.umap",
 				"D:/REALAUGame/TheAUGame/Content/Blueprints/QuizBlueprints/BP_BanditAttackTrigger.uasset",
 				"D:/REALAUGame/TheAUGame/Content/Blueprints/BP_PC.uasset",
-				"D:/REALAUGame/TheAUGame/Content/Blueprints/BP_AirLevelOne.uasset"
+				"D:/REALAUGame/TheAUGame/Content/Blueprints/BP_AirLevelOne.uasset",
+				"D:/REALAUGame/TheAUGame/Content/Blueprints/GI_PlayerData.uasset",
+				"D:/REALAUGame/TheAUGame/Content/UI/UI_Shop.uasset",
+				"D:/REALAUGame/TheAUGame/Content/Audio/cash-register-kaching-376867.uasset",
+				"D:/REALAUGame/TheAUGame/Content/Audio/single-pistol-gunshot-42-40781.uasset",
+				"D:/REALAUGame/TheAUGame/Content/UI/UI_Bank.uasset",
+				"D:/REALAUGame/TheAUGame/Content/Maps/Bank.umap",
+				"D:/REALAUGame/TheAUGame/Content/Blueprints/QuizBlueprints/A_Bandit1.uasset",
+				"D:/REALAUGame/TheAUGame/Content/Blueprints/QuizBlueprints/A_Bandit3.uasset",
+				"D:/REALAUGame/TheAUGame/Content/Blueprints/GM_Shop.uasset",
+				"D:/REALAUGame/TheAUGame/Content/Blueprints/GM_Bank.uasset"
 			]
 		}
 	]
