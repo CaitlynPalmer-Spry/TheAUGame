@@ -1,0 +1,8 @@
+[CookSettings]
+Version=21F52B9EDD4D456AB1AF381CA172BD28
+CookIncremental=false
+ExecutableHashInvalidModule=D:/Unreal/UE_5.6/Engine/Binaries/Win64/
+CookMode=CookByTheBook
+DLCName=
+CookInProgress=true
+
