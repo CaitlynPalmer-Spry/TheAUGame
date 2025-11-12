@@ -5,6 +5,7 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+<<<<<<< HEAD
 				"C:/Users/kyeal/OneDrive - University of South Australia/Documents/TheAUGame/Content/Blueprints/GI_PlayerData.uasset",
 				"C:/Users/kyeal/OneDrive - University of South Australia/Documents/TheAUGame/Content/Maps/camp.umap",
 				"C:/Users/kyeal/OneDrive - University of South Australia/Documents/TheAUGame/Content/UI/UI_Faint.uasset",
@@ -17,6 +18,12 @@
 				"C:/Users/kyeal/OneDrive - University of South Australia/Documents/TheAUGame/Content/UI/UI_PickUp.uasset",
 				"C:/Users/kyeal/OneDrive - University of South Australia/Documents/TheAUGame/Content/Assets/2DItems/BP_Item.uasset",
 				"C:/Users/kyeal/OneDrive - University of South Australia/Documents/TheAUGame/Content/UI/UI_InventorySlot.uasset"
+=======
+				"D:/REALAUGame/TheAUGame/Content/Blueprints/GI_PlayerData.uasset",
+				"D:/REALAUGame/TheAUGame/Content/UI/UI_Tutorial_Joe_Animation.uasset",
+				"D:/REALAUGame/TheAUGame/Content/UI/UI_Faint.uasset",
+				"D:/REALAUGame/TheAUGame/Content/Blueprints/BP_PC.uasset"
+>>>>>>> 81ef36832db9cb0ac64a43cae03623bbe03b4852
 			]
 		}
 	]
