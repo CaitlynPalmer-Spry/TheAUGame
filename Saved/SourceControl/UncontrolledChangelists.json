@@ -6,13 +6,21 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"C:/Users/kyeal/OneDrive - University of South Australia/Documents/TheAUGame/Content/Maps/Menu.umap",
-				"C:/Users/kyeal/OneDrive - University of South Australia/Documents/TheAUGame/Content/Audio/Cutscene.uasset",
 				"C:/Users/kyeal/OneDrive - University of South Australia/Documents/TheAUGame/Content/Maps/Cutscene.umap",
+				"C:/Users/kyeal/OneDrive - University of South Australia/Documents/TheAUGame/Content/UI/UI_Main_Menu.uasset",
+				"C:/Users/kyeal/OneDrive - University of South Australia/Documents/TheAUGame/Content/Movies/TheCutScene.uasset",
+				"C:/Users/kyeal/OneDrive - University of South Australia/Documents/TheAUGame/Content/Movies/StartCutscene.uasset",
+				"C:/Users/kyeal/OneDrive - University of South Australia/Documents/TheAUGame/Content/Movies/StartTexture.uasset",
+				"C:/Users/kyeal/OneDrive - University of South Australia/Documents/TheAUGame/Content/Movies/StartTexture_Mat.uasset",
+				"C:/Users/kyeal/OneDrive - University of South Australia/Documents/TheAUGame/Content/Movies/CutSceneMediaPlayer.uasset",
+				"C:/Users/kyeal/OneDrive - University of South Australia/Documents/TheAUGame/Content/Movies/CutSceneMediaPlayer_Video.uasset",
+				"C:/Users/kyeal/OneDrive - University of South Australia/Documents/TheAUGame/Content/Movies/CutSceneMediaPlayer_Video_Mat.uasset",
 				"C:/Users/kyeal/OneDrive - University of South Australia/Documents/TheAUGame/Content/Audio/StartCutscene.uasset",
 				"C:/Users/kyeal/OneDrive - University of South Australia/Documents/TheAUGame/Content/Audio/StartTexture.uasset",
 				"C:/Users/kyeal/OneDrive - University of South Australia/Documents/TheAUGame/Content/Audio/StartTexture_Mat.uasset",
-				"C:/Users/kyeal/OneDrive - University of South Australia/Documents/TheAUGame/Content/UI/UI_Main_Menu.uasset",
-				"C:/Users/kyeal/OneDrive - University of South Australia/Documents/TheAUGame/Content/Audio/Cutscene2.uasset"
+				"C:/Users/kyeal/OneDrive - University of South Australia/Documents/TheAUGame/Content/Audio/Cutscene2.uasset",
+				"C:/Users/kyeal/OneDrive - University of South Australia/Documents/TheAUGame/Content/Audio/TheCutScene.uasset",
+				"C:/Users/kyeal/OneDrive - University of South Australia/Documents/TheAUGame/Content/Audio/Cutscene.uasset"
 			]
 		}
 	]
