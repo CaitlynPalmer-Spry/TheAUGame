@@ -1,0 +1,13 @@
+{
+	"zenserver": {
+		"islocalhost": true,
+		"hostname": "[::1]",
+		"remotehostnames": [
+			"10.0.0.4",
+			"hostname://DESKTOP-UL05M6A.gateway"
+		],
+		"hostport": 8558,
+		"projectid": "TheAUGame.7e05d2ed",
+		"oplogid": "Windows"
+	}
+}
