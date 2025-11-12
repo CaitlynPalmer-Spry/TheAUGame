@@ -5,6 +5,11 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/REALAUGame/TheAUGame/Content/Blueprints/BP_PC.uasset",
+				"D:/REALAUGame/TheAUGame/Content/Maps/Win.umap",
+				"D:/REALAUGame/TheAUGame/Content/Blueprints/GM_WIN.uasset",
+				"D:/REALAUGame/TheAUGame/Content/UI/UI_Win.uasset",
+				"D:/REALAUGame/TheAUGame/Content/Blueprints/GI_PlayerData.uasset",
 				"C:/Users/kyeal/OneDrive - University of South Australia/Documents/TheAUGame/Content/Maps/Menu.umap",
 				"C:/Users/kyeal/OneDrive - University of South Australia/Documents/TheAUGame/Content/Audio/Cutscene.uasset",
 				"C:/Users/kyeal/OneDrive - University of South Australia/Documents/TheAUGame/Content/Maps/Cutscene.umap",
